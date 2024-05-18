@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+}
+
+.loader {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+
+.cat-info img {
+    max-width: 100%;
+}
